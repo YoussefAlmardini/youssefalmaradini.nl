@@ -1,0 +1,33 @@
+form{
+    padding-top: 10rem;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    text-shadow: 0 3px 6px black;
+}
+.minHeight{
+    min-height: 100vh;
+}
+.col-md-12{
+    text-align: center;
+}
+.btn-success{
+     background: #17a2b8 !important;
+ }
+.formMessage{
+    width: 100%;
+    background: burlywood;
+    border-radius: 5px;
+    padding: 2.5%;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+.submitMessage{
+    top: 8rem;
+    width: 45% !important;
+    margin: 0 auto;
+    background: #70b970;
+}
+body{
+    background: url("/assets/backgrounds.jpg");
+}
